@@ -1,0 +1,23 @@
+{
+  "name": "reminder-app",
+  "version": "1.0.0",
+  "description": "Command line application in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoeBrittonMFS/reminder-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoeBrittonMFS/reminder-app/issues"
+  },
+  "homepage": "https://github.com/JoeBrittonMFS/reminder-app#readme",
+  "dependencies": {
+    "yargs": "^16.2.0"
+  }
+}
